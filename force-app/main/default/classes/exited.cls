@@ -6,5 +6,10 @@ public with sharing class exited {
             integer a=b+c;
         }
 
+        public static void sub (integer d,integer e)
+            {
+                integer f=d-e;
+            }
+
     }
 }
